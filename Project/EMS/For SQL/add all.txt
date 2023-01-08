@@ -46,16 +46,16 @@ priority_status numeric(38,0)
 );
 
 insert into customer(cust_id, name, cnic, age, phone_no, email, account_number, priority_status)
-values('10001', 'Hassaan Shahzad', '32201-482843-4', 20, '0321-2565432', 'donttalktome@gmail.com', '023113566', 1);
+values('10001', 'Karthik Raj', '32201-482843-4', 20, '0321-2565432', 'donttalktome@gmail.com', '023113566', 1);
 
 insert into customer(cust_id, name, cnic, age, phone_no, email, account_number, priority_status)
-values('10002', 'Ahmed Khan', '22345-674839-4', 43, '0354-456652', 'akjjan@yahoo.com', '046773566', 2);
+values('10002', 'M Chinamaya Rao', '22345-674839-4', 43, '0354-456652', 'akjjan@yahoo.com', '046773566', 2);
 
 insert into customer(cust_id, name, cnic, age, phone_no, email, account_number, priority_status)
-values('10003', 'Sara Ismail', '32345-678429-5', 33, '0301-2534332', 'ssismail@gmail.com', '023676785', 3);
+values('10003', 'Hemanth Rangegowda SP', '32345-678429-5', 33, '0301-2534332', 'ssismail@gmail.com', '023676785', 3);
 
 insert into customer(cust_id, name, cnic, age, phone_no, email, account_number, priority_status)
-values('10004', 'Hassan Shahzad', '32344-675629-5', 18, '0301-2584332', 'chhxnshah@gmail.com', '023676485', 3);
+values('10004', 'Nishanth S Raj', '32344-675629-5', 18, '0301-2584332', 'chhxnshah@gmail.com', '023676485', 3);
 
 insert into customer(cust_id, name, cnic, age, phone_no, email, account_number, priority_status)
 values('10005', 'Funk Jood', '32344-698759-5', 20, '0301-8474332', 'detectivefunkjood@gmail.com', '0234426485', 1);
